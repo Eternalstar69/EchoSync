@@ -1,6 +1,20 @@
+# Environment / secrets
 .env
+
+# Lyrics and database — copyright content + large binary files
+lyrics_pool/
+touhou_vectordb/
+
+# Python
 __pycache__/
+*.pyc
+*.pyo
+.venv/
 venv/
-*.lrc
-*.ass
-*.jpg
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
