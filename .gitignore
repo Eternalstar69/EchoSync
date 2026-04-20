@@ -1,0 +1,6 @@
+.env
+__pycache__/
+venv/
+*.lrc
+*.ass
+*.jpg
