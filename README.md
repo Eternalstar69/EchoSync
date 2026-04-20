@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16a36dc5-57e0-4b59-a093-7dbc5e578ff8" width="400" alt="EchoSync Logo">
+</p>
 # EchoSync — Agentic Lyric Synchronization System
 
 > A 6-stage AI pipeline that converts a YouTube music URL into professionally timed subtitle files — standard Japanese, furigana-annotated, and Thai-translated — with zero manual intervention.
